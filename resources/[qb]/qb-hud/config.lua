@@ -5,7 +5,7 @@ Config.StressChance = 0.4 -- Default: 10% -- Percentage Stress Chance When Shoot
 Config.UseMPH = true -- If true speed math will be done as MPH, if false KPH will be used (YOU HAVE TO CHANGE CONTENT IN STYLES.CSS TO DISPLAY THE CORRECT TEXT)
 Config.MinimumStress = 100 -- Minimum Stress Level For Screen Shaking
 Config.MinimumSpeedUnbuckled = 100 -- Going Over This Speed Will Cause Stress
-Config.MinimumSpeed = 100 -- Going Over This Speed Will Cause Stress
+Config.MinimumSpeed = 101 -- Going Over This Speed Will Cause Stress
 Config.DisablePoliceStress = true -- If true will disable stress for people with the police job
 
 -- Stress
